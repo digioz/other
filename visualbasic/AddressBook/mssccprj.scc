@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Project1.vbp]
+SCC_Aux_Path =C:\_VSS,
+SCC_Project_Name ="$/Test1", BAAAAAAA
+
+[AddressBook.vbp]
+SCC_Aux_Path =C:\_VSS,
+SCC_Project_Name ="$/AddressBook", BAAAAAAA

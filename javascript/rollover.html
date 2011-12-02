@@ -1,0 +1,66 @@
+<html>
+
+<head>
+<title>JavaScript Sample - Image Rollover</title>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- 
+function ImgOver()
+{
+	document.form1.img1.src="over.gif";	
+}
+function ImgOut()
+{
+	document.form1.img1.src="out.gif";	
+}
+// -->
+</SCRIPT>
+</head>
+
+<body bgcolor="#c0c0c0" text="#000000" link="#8080ff" vlink="#0000ff" alink="#ffff00">
+<br><br>
+<center><h2>Image Rollover</h2></center>
+<br>
+<center>
+<FORM NAME="form1">
+	<A HREF="http://www.digioz.com" Name="link1" ONMOUSEOVER="ImgOver();" ONMOUSEOUT="ImgOut();">
+		<IMG BORDER="0" NAME="img1" SRC="out.gif">
+	</A>
+</FORM>
+
+
+<br><br>
+To add more images, just add another line in each of the two functions with the new over.gif and out.gif images. <br><br>
+<br><br>
+
+	<textarea name="bodytext" cols="80" rows="25">
+<!-- The following Code goes in the header of your page -->
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- 
+function ImgOver()
+{
+	document.form1.img1.src="over.gif";	
+}
+function ImgOut()
+{
+	document.form1.img1.src="out.gif";	
+}
+// -->
+</SCRIPT>
+
+<!-- The following Code goes in the body of your page -->
+
+<FORM NAME="form1">
+	<A HREF="http://www.digioz.com" Name="link1" 
+		ONMOUSEOVER="ImgOver();" ONMOUSEOUT="ImgOut();">
+		<IMG BORDER="0" NAME="img1" SRC="out.gif">
+	</A>
+</FORM>
+	</textarea>
+
+</center>
+
+
+</body>
+
+</html>

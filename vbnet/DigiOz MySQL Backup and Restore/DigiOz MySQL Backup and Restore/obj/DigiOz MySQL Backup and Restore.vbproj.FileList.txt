@@ -1,0 +1,10 @@
+obj\Debug\DigiOz MySQL Backup and Restore.exe
+obj\Debug\DigiOz MySQL Backup and Restore.xml
+obj\Debug\DigiOz MySQL Backup and Restore.pdb
+bin\Debug\DigiOz MySQL Backup and Restore.exe
+bin\Debug\DigiOz MySQL Backup and Restore.pdb
+bin\Debug\DigiOz MySQL Backup and Restore.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DigiOz_MySQL_Backup_and_Restore.frmMain.resources
+obj\Debug\DigiOz_MySQL_Backup_and_Restore.Resources.resources
+obj\Debug\DigiOz MySQL Backup and Restore.vbproj.GenerateResource.Cache

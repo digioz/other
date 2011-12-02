@@ -1,0 +1,10 @@
+bin\Debug\Temperature Converter.exe
+bin\Debug\Temperature Converter.pdb
+bin\Debug\Temperature Converter.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Temperature_Converter.frmMain.resources
+obj\Debug\Temperature_Converter.Resources.resources
+obj\Debug\Temperature Converter.vbproj.GenerateResource.Cache
+obj\Debug\Temperature Converter.exe
+obj\Debug\Temperature Converter.xml
+obj\Debug\Temperature Converter.pdb

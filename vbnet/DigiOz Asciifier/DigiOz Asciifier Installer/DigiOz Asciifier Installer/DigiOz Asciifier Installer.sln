@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DigiOz Asciifier Installer", "DigiOz Asciifier Installer.vdproj", "{1A94AF99-5DB5-4A31-868F-99A179E8F43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A94AF99-5DB5-4A31-868F-99A179E8F43F}.Debug|Default.ActiveCfg = Debug
+		{1A94AF99-5DB5-4A31-868F-99A179E8F43F}.Debug|Default.Build.0 = Debug
+		{1A94AF99-5DB5-4A31-868F-99A179E8F43F}.Release|Default.ActiveCfg = Release
+		{1A94AF99-5DB5-4A31-868F-99A179E8F43F}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

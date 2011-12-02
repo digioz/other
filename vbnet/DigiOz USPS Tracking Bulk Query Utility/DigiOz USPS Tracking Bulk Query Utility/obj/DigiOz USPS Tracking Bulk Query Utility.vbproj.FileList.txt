@@ -1,0 +1,20 @@
+bin\Debug\DigiOz USPS Tracking Bulk Query Utility.exe
+bin\Debug\DigiOz USPS Tracking Bulk Query Utility.pdb
+bin\Debug\DigiOz USPS Tracking Bulk Query Utility.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DigiOz_USPS_Tracking_Bulk_Query_Utility.frmMain.resources
+obj\Debug\DigiOz_USPS_Tracking_Bulk_Query_Utility.Resources.resources
+obj\Debug\DigiOz USPS Tracking Bulk Query Utility.vbproj.GenerateResource.Cache
+obj\Debug\DigiOz USPS Tracking Bulk Query Utility.exe
+obj\Debug\DigiOz USPS Tracking Bulk Query Utility.xml
+obj\Debug\DigiOz USPS Tracking Bulk Query Utility.pdb
+bin\Release\DigiOz USPS Tracking Bulk Query Utility.exe
+bin\Release\DigiOz USPS Tracking Bulk Query Utility.pdb
+bin\Release\DigiOz USPS Tracking Bulk Query Utility.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DigiOz_USPS_Tracking_Bulk_Query_Utility.frmMain.resources
+obj\Release\DigiOz_USPS_Tracking_Bulk_Query_Utility.Resources.resources
+obj\Release\DigiOz USPS Tracking Bulk Query Utility.vbproj.GenerateResource.Cache
+obj\Release\DigiOz USPS Tracking Bulk Query Utility.exe
+obj\Release\DigiOz USPS Tracking Bulk Query Utility.xml
+obj\Release\DigiOz USPS Tracking Bulk Query Utility.pdb

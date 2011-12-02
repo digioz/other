@@ -1,0 +1,8 @@
+bin\Debug\Tip Calculator.exe
+bin\Debug\Tip Calculator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Tip_Calculator.frmMain.resources
+obj\Debug\Tip_Calculator.Properties.Resources.resources
+obj\Debug\Tip Calculator.csproj.GenerateResource.Cache
+obj\Debug\Tip Calculator.exe
+obj\Debug\Tip Calculator.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip Calculator", "Tip Calculator\Tip Calculator.csproj", "{0650788E-6010-4528-AEB1-FD416E1C4672}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Tip Calculator Installer", "Tip Calculator Installer\Tip Calculator Installer.vddproj", "{D68E31D4-63E2-4C1E-9F78-5BC8EFACC0E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0650788E-6010-4528-AEB1-FD416E1C4672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0650788E-6010-4528-AEB1-FD416E1C4672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0650788E-6010-4528-AEB1-FD416E1C4672}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0650788E-6010-4528-AEB1-FD416E1C4672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0650788E-6010-4528-AEB1-FD416E1C4672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0650788E-6010-4528-AEB1-FD416E1C4672}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D68E31D4-63E2-4C1E-9F78-5BC8EFACC0E9}.Debug|Any CPU.ActiveCfg = Debug
+		{D68E31D4-63E2-4C1E-9F78-5BC8EFACC0E9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DigiOz USPS Tracking Query Installer", "DigiOz USPS Tracking Query Installer.vdproj", "{CCC45A7A-37B8-46B9-8268-F69B4EB8A029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC45A7A-37B8-46B9-8268-F69B4EB8A029}.Debug|Default.ActiveCfg = Release
+		{CCC45A7A-37B8-46B9-8268-F69B4EB8A029}.Debug|Default.Build.0 = Release
+		{CCC45A7A-37B8-46B9-8268-F69B4EB8A029}.Release|Default.ActiveCfg = Release
+		{CCC45A7A-37B8-46B9-8268-F69B4EB8A029}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
